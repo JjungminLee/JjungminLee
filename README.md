@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JjungminLee&layout=Demo&theme=dark)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=julie0964)](https://solved.ac/julie0964/)  
+
 ![JjungminLee's github stats](https://github-readme-stats.vercel.app/api?username=JjungminLee&show_icons=true)
 
 
