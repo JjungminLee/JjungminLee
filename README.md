@@ -1,7 +1,7 @@
 
 ### 📌 Profile
 
-Jungmin Lee(이정민)
+Jungmin Lee(이정민)  
 Soongsil Univ. 
 
 ### 🖥️ Tech
