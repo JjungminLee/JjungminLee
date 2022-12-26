@@ -14,8 +14,9 @@ Soongsil Univ.
 
 ### ⭐ Expereince
 
-Google Developers Students Club Soongsil (2022.09~)  
-UMC Soongsil -3rd (2022.09~)  
+Google Developers Students Club Soongsil-2nd(2022.09~)  
+UMC Soongsil-3rd(2022.09~)
+Central Makeus Challenge-12th(2022.12~)
 KUSITMS-26th (2022.09 ~ 2022.11)
 
 
