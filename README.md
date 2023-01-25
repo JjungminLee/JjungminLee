@@ -18,7 +18,6 @@ Soongsil Univ.
 
 Google Developers Students Club Soongsil-2nd Server/Cloud(2022.09~)  
 University Makeus Challenge Soongsil-3rd,4th Springboot(2022.09~)  
-Central Makeus Challenge-12th Server(2022.12~)  
 KUSITMS-26th Server(2022.09 ~ 2022.11)
 
 
