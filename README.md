@@ -16,9 +16,10 @@ Soongsil Univ.
 
 ### ⭐ Expereince
 
-Google Developers Students Club Soongsil-2nd Server/Cloud(2022.09~)  
-University Makeus Challenge Soongsil-3rd,4th Springboot,Android(2022.09~)  
-KUSITMS-26th Server(2022.09 ~ 2022.11)
+Google Developers Students Club Soongsil - 2nd Server/Cloud(2022.09~)  
+Central Makeus Challenge - 12th Server (2023.01~)
+University Makeus Challenge Soongsil - 3rd,4th Springboot,Android(2022.09~)  
+KUSITMS - 26th Server(2022.09 ~ 2022.11)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JjungminLee&layout=Demo&theme=dark)
