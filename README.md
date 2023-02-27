@@ -14,7 +14,7 @@ Soongsil Univ. CSE (2022.03~)
 ![android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
 
 
-### ⭐ Expereince
+### ⭐ Experience
 
 Google Developers Students Club Soongsil - 2nd Server/Cloud(2022.09~)  
 Central Makeus Challenge - 12th Server (2023.01~)  
