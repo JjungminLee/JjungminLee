@@ -17,8 +17,8 @@ Soongsil Univ. CSE (2022.03~)
 ### ⭐ Activity
 
 Google Developers Students Club Soongsil - 2nd Server/Cloud(2022.09~)  
-Cloud Club - 3rd Member (2022.03 ~)  
-Central Makeus Challenge - 12th Server (2023.01~)    
+Central Makeus Challenge - 12th Server (2023.01~) 
+Cloud Club - 3rd Member (2022.03 ~)     
 University Makeus Challenge Soongsil - 3rd,4th Springboot(2022.09~)  
 KUSITMS - 26th Server(2022.09 ~ 2022.11)
 
