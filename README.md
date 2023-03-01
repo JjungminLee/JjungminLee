@@ -21,13 +21,3 @@ Central Makeus Challenge - 12th Server (2023.01~)
 Cloud Club - 3rd Member (2023.03 ~)      
 UMC Soongsil - 3rd,4th Springboot (2022.09 ~)    
 KUSITMS - 26th Server(2022.09 ~ 2022.11)
-
-
-
-
-
-
-![JjungminLee's github stats](https://github-readme-stats.vercel.app/api?username=JjungminLee&show_icons=true)
-
-
-
