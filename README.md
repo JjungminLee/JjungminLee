@@ -27,6 +27,6 @@ Google Solution Challenge 2023 - 길거리 쓰레기 무단투기를 막기위�
 Google Developers Students Club Soongsil - 2nd Server/Cloud(2022.09~)  
 Central Makeus Challenge - 12th Server (2023.01~)  
 Cloud Club - 3rd Member (2023.03 ~)      
-UMC Soongsil - 3rd,4th Springboot,Android (2022.09 ~)    
+UMC Soongsil - 3rd,4th Springboot,Android (2022.09 ~ 2023.03)    
 KUSITMS - 26th Server(2022.09 ~ 2022.11)
 
