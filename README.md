@@ -25,6 +25,7 @@ Google Solution Challenge 2023 - 길거리 쓰레기 무단투기를 막기위�
 ### ⭐ Activity
 
 Google Developers Students Club Soongsil - 2nd Server/Cloud(2022.09~)  
+AWS Students Club Soongsil - 1st Member (2023.05~ )
 Central Makeus Challenge - 12th Server (2023.01~ 2023.03)   
 YourSSU - FE developer (2023.04~)     
 UMC Soongsil - 3rd,4th Springboot,Android (2022.09 ~ )    
