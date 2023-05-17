@@ -2,7 +2,9 @@
 ### 📌 Profile
 
 Jungmin Lee(이정민)  
-Soongsil Univ. CSE (2022.03~)
+Soongsil Univ. CSE (2022.03~)  
+![눌러줘제발,,,](https://counter.itjustbong.workers.dev/visit?url=github/JjungminLee&type=svg&text=%EC%9D%B4%EC%A0%95%EB%AF%BC%20github%20hits&bgcolor=rgb(3,166,60))
+
 
 ### 🖥️ Tech
 ![Java](https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=mysql&logoColor=white)
