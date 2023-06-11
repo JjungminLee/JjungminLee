@@ -15,7 +15,10 @@ Soongsil Univ. CSE (2022.03~)
 ![react](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 ![android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>  
+
+### 💌 Career  
+HillingSpot FE Developer (2023.06 ~ )  
 
 
 ### 📝 Project
@@ -25,15 +28,15 @@ Soongsil Univ. CSE (2022.03~)
 2023.02~ 2023.03 부모와 자녀의 공유일기, 일편마다 [일편마다 App store에서 다운받기!](https://apps.apple.com/app/%EB%B6%80%EB%AA%A8%EC%99%80-%EC%9E%90%EB%85%80-%EA%B0%84%EC%9D%98-%EA%B9%8A%EC%9D%80-%EB%8C%80%ED%99%94-%EC%9D%BC%ED%8E%B8%EB%A7%88%EB%8B%A4/id6446275837)   
 [일편마다 repo](https://github.com/MonggeulOrg/MonggeulDocker) (Springboot)   
 캐치 미 이프 유 캔 ! [Catch Me If you can!](https://catch-me-if-you-can-theta.vercel.app/) (NextJS)  
-2023.05 서울의 생태문화길을 추천받고 사람들 모아서 함께 걸을 수 있는 서비스 [ODE?SEOUL](https://ode-seoul-frontend.vercel.app/)  (NextJS)  
+2023.05 서울시 열린데이터광장 공모전 2023 - 서울의 생태문화길을 추천받고 사람들 모아서 함께 걸을 수 있는 서비스 [ODE?SEOUL](https://ode-seoul-frontend.vercel.app/)  (NextJS)  
 
 
 ### ⭐ Activity
 
 Google Developers Students Club Soongsil - 2nd Server/Cloud(2022.09~)  
 AWS Students Club Soongsil - 1st Member (2023.05~ )  
-Central Makeus Challenge - 12th Server (2023.01~ 2023.03)   
 YourSSU - FE developer (2023.04~)     
+Central Makeus Challenge - 12th Server (2023.01~ 2023.03)   
 UMC Soongsil - 3rd,4th Springboot,Android (2022.09 ~ )    
 KUSITMS - 26th Server(2022.09 ~ 2022.11)
 
