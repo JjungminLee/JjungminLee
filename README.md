@@ -18,7 +18,7 @@ Soongsil Univ. CSE (2022.03~)
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>  
 
 ### 💌 Career  
-HillingSpot FE Developer (2023.06 ~ )  
+[HillingSpot](https://www.expertdb.ai/) FE Developer (2023.06 ~ )  
 
 
 ### 📝 Project
