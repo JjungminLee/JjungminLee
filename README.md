@@ -20,6 +20,8 @@ Soongsil Univ. CSE (2022.03~)
 ### 💌 Career  
 [HillingSpot](https://www.expertdb.ai/) FE Developer (2023.06 ~ )  
 
+### 🏆 Awards
+2023 서울열린데이터광장 공모전 "오디서울" - 서울특별시장상 
 
 ### 📝 Project
 | 기간 | 프로젝트 이름 | 프로젝트 설명 | Repo |
