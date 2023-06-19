@@ -32,7 +32,7 @@ Soongsil Univ. CSE (2022.03~)
 |2023.02~ 2023.03 | CMC 12기 - 일편마다 | 부모와 자녀의 공유일기, 일편마다| [일편마다 repo](https://github.com/MonggeulOrg/MonggeulDocker) (Springboot),[일편마다 App store에서 다운받기!](https://apps.apple.com/app/%EB%B6%80%EB%AA%A8%EC%99%80-%EC%9E%90%EB%85%80-%EA%B0%84%EC%9D%98-%EA%B9%8A%EC%9D%80-%EB%8C%80%ED%99%94-%EC%9D%BC%ED%8E%B8%EB%A7%88%EB%8B%A4/id6446275837)|
 |2023.05 | 서울시 열린데이터광장 공모전 2023 수상작 - ODE?SEOUL| 서울의 생태문화길을 추천받고 사람들 모아서 함께 걸을 수 있는 서비스 | [ODE?SEOUL](https://ode-seoul-frontend.vercel.app/)  (NextJS)  |
 |2023.05 ~ | 다잇슈! | 숭실대학교 학생들을 위한 서비스 |[다잇슈 Front](https://github.com/DaITssu/daitssu-client)|
-|2023.06 ~ | GDSC Soongsil Festival - 만약 | 친구와 약속을 잡고 놀고 기록하는 관계 관리 서비스 | |
+|2023.06 ~ | GDSC Soongsil Festival - 만약 | 친구와 약속을 잡고 놀고 기록하는 관계 관리 서비스 |[만약](https://github.com/manyaak/manyaak-back) |
 |2023.02~ |캐치 미 이프 유 캔 ! | 공사중 |[Catch Me If you can!](https://catch-me-if-you-can-theta.vercel.app/) (NextJS) | 
 
 
