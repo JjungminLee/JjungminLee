@@ -36,7 +36,7 @@ Soongsil Univ. CSE (2022.03~)
 |2023.06 ~2023.07 | RealWorld | YourSSU WEB FE 상반기 인큐베이팅 | [유어슈 인큐베이팅](https://github.com/JjungminLee/YourSSU-RealWorld-SK.git)(React,TS)|
 |2023.07~ | 커밍쑨   | | |
 |2023.08 ~| 커밍쑨 | | |
-
+|2023.08 ~| 커밍쑨 | | |
 
 ### ⭐ Activity
 
