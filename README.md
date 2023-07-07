@@ -19,6 +19,7 @@ Soongsil Univ. CSE (2022.03~)
 
 ### 💌 Career  
 [HillingSpot](https://www.expertdb.ai/) FE Developer (2023.06 ~ )  
+- 힐링스팟 어드민 페이지 풀스택 개발
 
 ### 🏆 Awards
 2023 서울열린데이터광장 공모전 "오디서울" - 서울특별시장상 우수상
