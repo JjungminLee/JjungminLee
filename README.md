@@ -35,7 +35,7 @@ Soongsil Univ. CSE (2022.03~)
 |2023.05 ~ | 다잇슈! | 숭실대학교 학생들을 위한 서비스 |[다잇슈 Front](https://github.com/DaITssu/daitssu-client) (NextJS)|
 |2023.06 ~ | GDSC Soongsil Festival - 만약 | 친구와 약속을 잡고 놀고 기록하는 관계 관리 서비스 |[만약](https://github.com/manyaak/manyaak-back) (Springboot)|
 |2023.06 ~2023.07 | RealWorld | YourSSU WEB FE 상반기 인큐베이팅 | [유어슈 인큐베이팅](https://github.com/JjungminLee/YourSSU-RealWorld-SK.git)(React,TS)|
-|2023.07  | 2023 문화데이터활용경진대회 출품작 - 로컬홀리데이 |국내에서 로컬홀리데이를 도와주는 서비스 | [LocalHoliday](https://github.com/LocalHoliday/LocalHoliday-Web.git) (NextJS)|
+|2023.07  | 2023 문화데이터활용경진대회 출품작 - 로컬홀리데이 |국내에서 로컬홀리데이를 도와주는 서비스 | [LocalHoliday](https://local-holiday.vercel.app/) (NextJS)|
 |2023.08 ~| 커밍쑨 |  | |
 |2023.08 ~| 커밍쑨 | | |
 
