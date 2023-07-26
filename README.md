@@ -36,9 +36,10 @@ Soongsil Univ. CSE (2022.03~)
 |2023.06 ~ | GDSC Soongsil Festival - 만약 | 친구와 약속을 잡고 놀고 기록하는 관계 관리 서비스 |[만약](https://github.com/manyaak/manyaak-back) (Springboot)|
 |2023.06 ~2023.07 | RealWorld | YourSSU WEB FE 상반기 인큐베이팅 | [유어슈 인큐베이팅](https://github.com/JjungminLee/YourSSU-RealWorld-SK.git)(React,TS)|
 |2023.07  | 2023 문화데이터활용경진대회 출품작 - 로컬홀리데이 |국내에서 워킹 홀리데이를 즐길 수 있게 도와주는 서비스  | [LocalHoliday](https://local-holiday.vercel.app/) (NextJS)|
-|2023.07 ~| 2023 서울시 여성 해커톤 |  | |
-|2023.08 ~| 2023 카카오 X 한국관광공사 관광데이터 활용 공모전 | | |
-|2023.08 ~| 커밍쑨 | | |
+|2023.07 ~| 2023 서울시 여성 해커톤- Kids Guardian |  | |
+|2023.08 ~| 2023 카카오 X 한국관광공사 관광데이터 활용 공모전 - ON;na| | |
+|2023.09 ~| 커밍쑨 | | |
+|2023.09 ~| 커밍쑨 | | |
 
 ### ⭐ Activity
 
