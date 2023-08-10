@@ -35,12 +35,12 @@ Soongsil Univ. CSE (2022.03~)
 |2023.01 |UMC 3기 - 마스터즈코스 Religo |종교에 들어가고 싶은 사람들을 위한 종교 매칭 플랫폼| [Religo](https://github.com/UMC3rdReligo/ReligoFront) (Android) |
 |2023.01 ~ 2023.02 |Google Solution Challenge 2023 - Garbage Collection | 길거리 쓰레기 무단투기를 막기위해 AI로 쓰레기를 분류하고 근처 쓰레기통을 찾아주는 앱 |  [GarbageCollection](https://github.com/gdsc-ssu/garbage-collector-back) (Springboot)  |
 |2023.02~ 2023.03 | CMC 12기 - 일편마다 | 부모와 자녀의 공유일기, 일편마다| [일편마다 repo](https://github.com/MonggeulOrg/MonggeulDocker) (Springboot),[일편마다 App store에서 다운받기!](https://apps.apple.com/app/%EB%B6%80%EB%AA%A8%EC%99%80-%EC%9E%90%EB%85%80-%EA%B0%84%EC%9D%98-%EA%B9%8A%EC%9D%80-%EB%8C%80%ED%99%94-%EC%9D%BC%ED%8E%B8%EB%A7%88%EB%8B%A4/id6446275837)|
-|2023.05 | 서울시 열린데이터광장 공모전 2023 수상작 - ODE?SEOUL| 서울의 생태문화길을 추천받고 사람들 모아서 함께 걸을 수 있는 서비스 | [ODE?SEOUL](https://ode-seoul-frontend.vercel.app/)  (NextJS)  |
+|2023.05 | 서울특별시 열린데이터광장 공모전 2023 수상작 - ODE?SEOUL| 서울의 생태문화길을 추천받고 사람들 모아서 함께 걸을 수 있는 서비스 | [ODE?SEOUL](https://ode-seoul-frontend.vercel.app/)  (NextJS)  |
 |2023.05 ~ | 다잇슈! | 숭실대학교 학생들을 위한 서비스 |[다잇슈 Front](https://github.com/DaITssu/daitssu-client) (NextJS)|
 |2023.06 ~ | GDSC Soongsil Festival - 만약 | 친구와 약속을 잡고 놀고 기록하는 관계 관리 서비스 |[만약](https://github.com/manyaak/manyaak-back) (Springboot)|
 |2023.06 ~2023.07 | RealWorld | YourSSU WEB FE 상반기 인큐베이팅 | [유어슈 인큐베이팅](https://github.com/JjungminLee/YourSSU-RealWorld-SK.git)(React,TS)|
-|2023.07 | 2023 문화데이터활용경진대회 출품작 - 로컬홀리데이 |국내에서 워킹 홀리데이를 즐길 수 있게 도와주는 서비스  | [LocalHoliday](https://local-holiday.vercel.app/) (NextJS)|
-|2023.07 ~ 2023.08 | 2023 서울시 여성 해커톤- Kids Guardian | 어린이 사고다발지역을 알려주고, 진입 시 알람을 주는 서비스  | [KidsGuardian](https://kids-guardian-front.pages.dev/) (React) |
+|2023.07 | 2023 문화데이터활용경진대회 수상작 - 로컬홀리데이 |국내에서 워킹 홀리데이를 즐길 수 있게 도와주는 서비스  | [LocalHoliday](https://local-holiday.vercel.app/) (NextJS)|
+|2023.07 ~ 2023.08 | 2023 서울특별시 우먼 테크 해커톤- Kids Guardian | 어린이 사고다발지역을 알려주고, 진입 시 알람을 주는 서비스  | [KidsGuardian](https://kids-guardian-front.pages.dev/) (React) |
 |2023.08 ~| 2023 카카오 X 한국관광공사 관광데이터 활용 공모전 - ON;na| | |
 |2023.08 ~| 커밍쑨 | | |
 |2023.09 ~| 커밍쑨 | | |
