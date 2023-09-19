@@ -40,7 +40,7 @@ Soongsil Univ. CSE (2022.03~)
 |2023.08 ~ 2023.09| 2023 카카오 X 한국관광공사 관광데이터 활용 공모전 - ON;na| 부산 관광지 동행자 매칭 앱 | [ON;na](https://github.com/KakaoONna/ONnaBack.git) (Springboot) |
 |2023.09|2023 공개 SW 개발자 대회 - seenEar | 시니어들을 위한 포츈쿠키 | [seenEar](https://github.com/OpenSourceSw-seenEar/seenEar-back) (Springboot)|
 |2023.09 ~ |모이닷| [런칭 프로젝트]📍 우리가 만나는 지점,  | [모이닷](https://github.com/moidot/frontend) (NextJS)|
-|2023.09 | 2023 ICT/SW 여성창업공모전 - ㅁObjet | | |
+|2023.09 | 2023 ICT/SW 여성창업공모전 - ㅁObjet | | [ㅁOjbet](https://github.com/objet-team/objet-frontend) |
 
 ### ⭐ Activity
 
