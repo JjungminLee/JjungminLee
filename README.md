@@ -33,6 +33,7 @@ Soongsil Univ. CSE (2022.03~)
 |---|---|---|---|
 | 2022.11 | 큐시즘 26기 밋업데이 - Bring | 음악기반 기억회상 및 감정정리 앱 | [Bring](https://github.com/KUSITMS-Github/26th_Meetup_T2_Bring_back) (Springboot) | 
 |2023.01 ~ 2023.02 |Google Solution Challenge 2023 - Garbage Collection | 길거리 쓰레기 무단투기를 막기위해 AI로 쓰레기를 분류하고 근처 쓰레기통을 찾아주는 앱 |  [GarbageCollection](https://github.com/gdsc-ssu/garbage-collector-back) (Springboot)  |
+|2023.02 ~ 2023.03 | CMC 12기 - 일편마다 | 자식과 부모의 일기 공유 앱 | [일편마다]() (Springboot)|
 |2023.05 | 서울특별시 열린데이터광장 공모전 2023 수상작 - ODE?SEOUL| 서울의 생태문화길을 추천받고 사람들 모아서 함께 걸을 수 있는 서비스 | [ODE?SEOUL](https://ode-seoul-frontend.vercel.app/)  (NextJS)  |
 |2023.06 ~ 2023.08| GDSC Soongsil Festival - 만약 | 친구와 약속을 잡고 놀고 기록하는 관계 관리 앱 |[만약](https://github.com/manyaak/manyaak-back) (Springboot)|
 |2023.07 | 2023 문화데이터활용경진대회 수상작 - 로컬홀리데이 |국내에서 워킹 홀리데이를 즐길 수 있게 도와주는 서비스  | [LocalHoliday](https://local-holiday.vercel.app/) (NextJS)|
