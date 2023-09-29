@@ -38,7 +38,7 @@ Soongsil Univ. CSE (2022.03~)
 |2023.07 ~ 2023.08 | 2023 서울특별시 우먼 테크 해커톤- Kids Guardian | 어린이 사고다발지역을 알려주고, 진입 시 알람을 주는 서비스  | [KidsGuardian](https://kids-guardian-front.pages.dev/) (React) |
 |2023.08 ~ 2023.09| 2023 카카오 X 한국관광공사 관광데이터 활용 공모전 출품작 - ON;na| 부산 관광지 동행자 매칭 앱 | [ON;na](https://github.com/KakaoONna/ONnaBack.git) (Springboot) |
 |2023.09|2023 공개 SW 개발자 대회 출품작 - seenEar | 시니어들을 위한 포츈쿠키 | [seenEar](https://github.com/OpenSourceSw-seenEar/seenEar-back) (Springboot)|
-|2023.09 | 2023 ICT/SW 여성창업공모전 출품작 - ㅁObjet | 신인아티스트 발굴을 도와주는 ㅁObjet | [ㅁOjbet](https://github.com/objet-team/objet-frontend) (NextJS) |
+|2023.09 | 2023 ICT/SW 여성창업공모전 출품작 - ㅁObjet | 신인아티스트 발굴을 도와주는 ㅁObjet | [ㅁObjet](https://github.com/objet-team/objet-frontend) (NextJS) |
 |2023.09 ~ | Trunkr | Growth platform through review and sharing | |
 
 ### ⭐ Activity
