@@ -49,7 +49,7 @@ Soongsil Univ. CSE (2022.03~)
 
 ### ⭐ Activity
 
-Google Developers Students Club Soongsil - 2nd Server/Cloud(2022.09~ 2023.09)  
+Google Developers Students Club Soongsil - 2nd Server/Cloud(2022.09~ 2023.09) , 3rd Web/Mobile Core Member (2023.10~)  
 YourSSU - FE developer (2023.04~)     
 Central Makeus Challenge - 12th Server (2023.01~ 2023.03)   
 UMC Soongsil - 3rd,4th Springboot,Android (2022.09 ~ 2023.08)    
