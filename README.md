@@ -30,12 +30,13 @@ Soongsil Univ. CSE (2022.03~)
 |---|---|---|---|
 |2023.08 ~ | 모이닷 | [런칭 프로젝트]📍 우리가 만나는 지점, 모이닷 |[모이닷](https://github.com/moidot/frontend) (NextJS) |  
 |2023.09 ~ | Trunkr | Growth platform through review and sharing | private repo |
+|2023.11 | 너의 재능,샘이나! | 2023-2학기 사용자인터페이스 실습 프로젝트 | [너의 재능,샘이나!](https://github.com/Sem-in-a/Semi-na-android) (Andorid Java) |
 
 ### 📝 Project
 | 기간 | 프로젝트 이름 | 프로젝트 설명 | Repo |
 |---|---|---|---|
 | 2022.11 | 큐시즘 26기 밋업데이 - Bring | 음악기반 기억회상 및 감정정리 앱 | [Bring](https://github.com/KUSITMS-Github/26th_Meetup_T2_Bring_back) (Springboot) | 
-| 2022.12 ~ 2023.02 | UMC 3기 - Religo | 종교 시설을 찾아주는 종교 매칭 앱 | [Religo](https://github.com/UMC3rdReligo/ReligoFront) (Android)|
+| 2022.12 ~ 2023.02 | UMC 3기 - Religo | 종교 시설을 찾아주는 종교 매칭 앱 | [Religo](https://github.com/UMC3rdReligo/ReligoFront) (Android Kotlin)|
 |2023.01 ~ 2023.02 |Google Solution Challenge 2023 - Garbage Collection | 길거리 쓰레기 무단투기를 막기위해 AI로 쓰레기를 분류하고 근처 쓰레기통을 찾아주는 앱 |  [GarbageCollection](https://github.com/gdsc-ssu/garbage-collector-back) (Springboot)  |
 |2023.02 ~ 2023.03 | CMC 12기 - 일편마다 | 자식과 부모의 일기 공유 앱 | [일편마다](https://github.com/MonggeulOrg/MonggeulDocker) (Springboot)|
 |2023.05 | 서울특별시 열린데이터광장 공모전 2023 수상작 - ODE?SEOUL| 서울의 생태문화길을 추천받고 사람들 모아서 함께 걸을 수 있는 서비스 | [ODE?SEOUL](https://ode-seoul-frontend.vercel.app/)  (NextJS)  |
