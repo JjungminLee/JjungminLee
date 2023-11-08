@@ -14,9 +14,6 @@ Soongsil Univ. CSE (2022.03~)
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>  
 
-### 💌 Career  
-[HillingSpot](https://www.expertdb.ai/) FE Developer (2023.06 ~ 2023.08 )  
-- 힐링스팟 어드민 페이지 풀스택 개발
 
 ### 🏆 Awards
 2023 서울특별시 서울열린데이터광장 공모전 "오디서울" - 서울특별시장상 우수상   
