@@ -28,7 +28,7 @@ Soongsil Univ. CSE (2022.03~)
 |---|---|---|---|
 |2023.08 ~ | 모이닷 | [런칭 프로젝트]📍 우리가 만나는 지점, 모이닷 |[모이닷](https://github.com/moidot/frontend) (NextJS) |  
 |2023.09 ~ | Trunkr | Growth platform through review and sharing | private repo |  
-|2023.11 | 2023 임팩트캠퍼스 IT서비스 아이디어 공모전 - 도담도담 | 산후우울증을 겪는 엄마들을 위한 마음챙김 서비스 |  |
+
 
 ### 📝 Project
 | 기간 | 프로젝트 이름 | 프로젝트 설명 | Repo |
