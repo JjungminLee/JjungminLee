@@ -28,7 +28,6 @@ Soongsil Univ. CSE (2022.03~)
 | 기간 | 프로젝트 이름 | 프로젝트 설명 | Repo |
 |---|---|---|---|
 |2023.08 ~ | 모이닷 | [런칭 프로젝트]📍 우리가 만나는 지점, 모이닷 |[모이닷](https://github.com/moidot/frontend) (NextJS) |  
-|2023.09 ~ | Trunkr | Growth platform through review and sharing | private repo |  
 |2023.12 ~ | Linker |  ||
 
 
