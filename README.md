@@ -28,7 +28,7 @@ Soongsil Univ. CSE (2022.03~)
 | 기간 | 프로젝트 이름 | 프로젝트 설명 | Repo |
 |---|---|---|---|
 |2023.08 ~ | 모이닷 | [런칭 프로젝트]📍 우리가 만나는 지점, 모이닷 |[모이닷](https://github.com/moidot/frontend) (NextJS) |  
-|2023.12 ~ | Linker |  ||
+|2023.12 ~ | Linker | YAPP 23기 프로젝트 | [LINKER](https://github.com/YAPP-Github/23rd-Web-Team-1-FE) (NextJS) |
 
 
 ### 📝 Project
