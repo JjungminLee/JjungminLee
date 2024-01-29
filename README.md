@@ -27,7 +27,6 @@ Soongsil Univ. CSE (2022.03~)
 ### 💭 Ongoing Project!
 | 기간 | 프로젝트 이름 | 프로젝트 설명 | Repo |
 |---|---|---|---|
-|2023.08 ~ | 모이닷 | [런칭 프로젝트]📍 우리가 만나는 지점, 모이닷 |[모이닷](https://github.com/moidot/frontend) (NextJS) |  
 |2023.12 ~ | Linker | YAPP 23기 프로젝트 | [LINKER](https://github.com/YAPP-Github/23rd-Web-Team-1-FE) (NextJS) |
 
 
@@ -41,6 +40,7 @@ Soongsil Univ. CSE (2022.03~)
 |2023.08 ~ 2023.09| 2023 카카오 X 한국관광공사 관광데이터 활용 공모전 수상작 - ON;na| 부산 관광지 동행자 매칭 앱 | [ON;na](https://github.com/KakaoONna/ONnaBack.git) (Springboot) |
 |2023.09|2023 공개 SW 개발자 대회 출품작 - seenEar | 시니어들을 위한 포츈쿠키 | [seenEar](https://github.com/OpenSourceSw-seenEar/seenEar-back) (Springboot)|
 |2023.11 | 너의 재능,샘이나! | 2023-2학기 사용자인터페이스 실습 프로젝트 | [너의 재능,샘이나!](https://github.com/Sem-in-a/Semi-na-android) (Andorid Java) |
+|2023.08 ~ 2024.01 | 모이닷 | [런칭 프로젝트]📍 우리가 만나는 지점, 모이닷 |[모이닷](https://github.com/moidot/frontend) (NextJS) |  
 
 
 ### ⭐ Activity
