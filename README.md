@@ -13,7 +13,7 @@ Soongsil Univ. CSE (2022.03~)
 ![android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>  
-
+[![Jjungmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JjungminLee)](https://github.com/JjungminLee/github-readme-stats)
 
 ### 🏆 Awards
 2023 서울특별시 서울열린데이터광장 공모전 "오디서울" - 서울특별시장상 우수상   
