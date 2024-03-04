@@ -37,13 +37,13 @@ Soongsil Univ. CSE (2022.03~)
 |2023.11 | 너의 재능,샘이나! | 2023-2학기 사용자인터페이스 실습 프로젝트 | [너의 재능,샘이나!](https://github.com/Sem-in-a/Semi-na-android) (Andorid Java) |
 |2023.08 ~ 2024.01 | 모이닷 | [런칭 프로젝트]📍 우리가 만나는 지점, 모이닷 |[모이닷](https://github.com/moidot/frontend) (NextJS) https://www.moidot.co.kr/ |  
 |2023.10 ~ | Linker | YAPP 23기 프로젝트 | [LINKER](https://github.com/YAPP-Github/23rd-Web-Team-1-FE) (NextJS) |
-|2023.12 ~ | YLS for web | YourSSU Logging System | [YLS](https://github.com/yourssu/YLS-Web)  [숨쉴때](https://github.com/yourssu/Soomsil-Web)  |
+|2023.12 ~ | YLS for web |YourSSU Logging System | [YLS](https://github.com/yourssu/YLS-Web)  [숨쉴때](https://github.com/yourssu/Soomsil-Web)  |
 
 
 ### ⭐ Activity
 
 Google Developers Students Club Soongsil - 2nd Server/Cloud(2022.09~ 2023.09) , 3rd Web/Mobile Core Member (2023.10~)  
-YAPP FE Developer (2023.10~2024.02)  
+YAPP FE Developer (2023.10~ 2024.02)     
 YourSSU - FE developer (2023.04~)         
 KUSITMS - 26th Server(2022.09 ~ 2022.11)
 
