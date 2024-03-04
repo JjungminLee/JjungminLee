@@ -43,7 +43,7 @@ Soongsil Univ. CSE (2022.03~)
 ### ⭐ Activity
 
 Google Developers Students Club Soongsil - 2nd Server/Cloud(2022.09~ 2023.09) , 3rd Web/Mobile Core Member (2023.10~)  
-YAPP FE Developer (2023.10~)  
+YAPP FE Developer (2023.10~2024.02)  
 YourSSU - FE developer (2023.04~)         
 KUSITMS - 26th Server(2022.09 ~ 2022.11)
 
