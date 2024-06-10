@@ -21,10 +21,6 @@ Soongsil Univ. CSE (2022.03~)
 2023 카카오 X 한국관광공사 관광데이터활용공모전 "ON;na" - 장려상  
 2023 임팩트 캠퍼스 공모전 - 우수상  
 
-### 📖 Portfolio
-[Portfolio](https://cool-comet-547.notion.site/JjungminLee-0b941d21bd4649c089b6eb4ae79fb206?pvs=4)  
-
-
 ### 📝 Project
 | 기간 | 프로젝트 이름 | 프로젝트 설명 | Repo |
 |---|---|---|---|
