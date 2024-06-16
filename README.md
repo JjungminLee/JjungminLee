@@ -34,6 +34,7 @@ Soongsil Univ. CSE (2022.03~)
 |2023.08 ~ 2024.01 | 모이닷 | [런칭 프로젝트]📍 우리가 만나는 지점, 모이닷 |[모이닷](https://github.com/moidot/frontend) (NextJS) https://www.moidot.co.kr/ |  
 |2023.10 ~ | Linker | YAPP 23기 프로젝트 | [LINKER](https://github.com/YAPP-Github/23rd-Web-Team-1-FE) (NextJS) |  
 |2023.12 ~ 2024.02 | YLS for web| YourSSU Logging System| [YLS](https://www.npmjs.com/package/@yourssu/logging-system-react) (npm Repo, React)|
+|2024.03 ~ 2024.05 | Linux System Programming | 2024 리시프 설계과제 커밍쑨 |
 
 
 
