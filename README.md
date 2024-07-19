@@ -19,6 +19,8 @@ I'm a junior in the Computer Science and Engineering (CSE) department at Soongsi
 | YourSSU | 2023.03 ~ | Frontend Developer |
 | Yapp| 2023.10 ~ 2024.02 | Frontend Developer |
 | UMC| 2022.08 ~ 2023.06 | Member,Part Lead(Server) |
+| KUSITMS| 2022.08 ~ 2022.11 | 개발파트 학회원 |
+
 
 ### 📂 Project
 | 기간 | 프로젝트 이름 | 프로젝트 설명 | Repo |
