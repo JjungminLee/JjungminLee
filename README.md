@@ -17,7 +17,7 @@ System Programming | Linux
 ### 📚 MyBlog
 - [Jjungking Blog](https://dnpfzja2.tistory.com/)
 ### ⭐️ OpenSource
-- RHF Documentation [PR](https://github.com/react-hook-form/documentation/commit/4e73acd12b951c80dba0734b2d5a35d3f1f8f039)
+- RHF Documentation [PR](https://github.com/react-hook-form/documentation/pull/1134)
 
 
 
