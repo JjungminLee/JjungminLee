@@ -12,7 +12,7 @@ System Programming | Linux
 - [coconut silo](https://www.coconutsilo.com/ )   Frontend Intern (2025.03~2025.06)
   
 ### 💖 Activity
-- [GDSC Sonngsil](https://gdscsoongsil.pages.dev/) (2022.03~2025.08)
+- [GDSC Soongsil](https://gdscsoongsil.pages.dev/) (2022.03~2025.08)
 
 ### 📚 MyBlog
 - [Jjungking Blog](https://dnpfzja2.tistory.com/)
