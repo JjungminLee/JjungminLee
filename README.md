@@ -10,7 +10,7 @@ System Programming | Linux
 
 ### 👩🏻‍🎨 Careers
 - [coconut silo](https://www.coconutsilo.com/ )   Frontend Intern (2025.03~2025.06)
-- [Shinhan bank](https://bank.shinhan.com/rib/easy/index.jsp#211800000000) Intern (2025.07~2025.08)
+- [Shinhan bank](https://bank.shinhan.com/rib/easy/index.jsp#211800000000) ICT Intern (2025.07~2025.08)
   
 ### 💖 Activity
 - [GDSC Soongsil](https://gdscsoongsil.pages.dev/) (2022.03~2025.08)
