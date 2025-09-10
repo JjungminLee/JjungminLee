@@ -1,7 +1,6 @@
 ### 🐿️ JjungminLee 
 I'm pursuing something I can dive into enthusiastically!  
 I'm a senior in the Computer Science and Engineering (CSE) department at Soongsil University.  
-Resume | [JjungminLee's Resume](https://swamp-open-7fc.notion.site/Jungmin-Lee-1f06e596c2268079805becff32fcaf78)
 
 ### 💻 Tech Stack
 Frontend  | React, Typescript, NextJS, Emoiton, TailwindCSS, React-Query    
