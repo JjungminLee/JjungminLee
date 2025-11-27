@@ -3,8 +3,9 @@ I'm pursuing something I can dive into enthusiastically!
 I'm a senior in the Computer Science and Engineering (CSE) department at Soongsil University.  
 
 ### 💻 Tech Stack
+DevOps | K8s, Docker, Prometheus, Grafana, Loki, Storage(NAS, Object Storage)  
 Frontend  | React, Typescript, NextJS, Emoiton, TailwindCSS, React-Query    
-Backend | Java, Springboot, MySQL, EC2, RDS, JPA, Spring Webflux, Spring MVC  
+Backend | Java, Springboot, MySQL, EC2, RDS, JPA, Spring MVC  
 System Programming | Linux
 
 ### 👩🏻‍🎨 Careers
